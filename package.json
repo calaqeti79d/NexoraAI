@@ -1,0 +1,22 @@
+{
+  "name": "nexoraai",
+  "version": "1.0.0",
+  "description": "AI-powered intelligent platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "ai",
+    "artificial-intelligence",
+    "nexora",
+    "machine-learning"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
