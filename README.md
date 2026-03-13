@@ -87,10 +87,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/NexoraAIcloud/nexoraai.git
+git clone https://github.com/calaqeti79d/NexoraAI.git
 
 # Navigate to project directory
-cd nexoraai
+cd NexoraAI
 
 # Install dependencies
 npm install
@@ -151,9 +151,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![Website](https://img.shields.io/badge/Website-ai--nexora.net-blue?style=for-the-badge)](https://ai-nexora.net)
 [![Documentation](https://img.shields.io/badge/GitBook-Official%20Docs-orange?style=for-the-badge)](https://nexora-ai-1.gitbook.io/ai-nexora)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/nexora)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/nexoraai)
-[![Issues](https://img.shields.io/badge/Issues-Report%20Bug-red?style=for-the-badge)](https://github.com/NexoraAIcloud/nexoraai/issues)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/p56Zej4eUm)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1da1f2?style=for-the-badge&logo=twitter)](https://x.com/official_nexora)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26a5e4?style=for-the-badge&logo=telegram)](https://t.me/ai_nexora)
+[![Issues](https://img.shields.io/badge/Issues-Report%20Bug-red?style=for-the-badge)](https://github.com/calaqeti79d/NexoraAI/issues)
 
 </div>
 
