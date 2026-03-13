@@ -87,7 +87,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/calaqeti79d/NexoraAI.git
+git clone https://github.com/nexora-ai-cloude/NexoraAI.git
 
 # Navigate to project directory
 cd NexoraAI
@@ -154,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/p56Zej4eUm)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1da1f2?style=for-the-badge&logo=twitter)](https://x.com/official_nexora)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-26a5e4?style=for-the-badge&logo=telegram)](https://t.me/ai_nexora)
-[![Issues](https://img.shields.io/badge/Issues-Report%20Bug-red?style=for-the-badge)](https://github.com/calaqeti79d/NexoraAI/issues)
+[![Issues](https://img.shields.io/badge/Issues-Report%20Bug-red?style=for-the-badge)](https://github.com/nexora-ai-cloude/NexoraAI/issues)
 
 </div>
 
